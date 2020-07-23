@@ -8,6 +8,7 @@ No installation required.
 # Prerequisites
 
 Web based application. https://morning-brushlands-79726.herokuapp.com/
+App.js NA due to API keys
 
 # Installing
 
@@ -15,7 +16,7 @@ NA
 
 # Running tests
 
-You can sign up for the newsletter!
+You can sign up for the newsletter! Check the success and error pages
 
 # Built With
 
